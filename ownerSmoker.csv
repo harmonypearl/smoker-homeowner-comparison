@@ -1,0 +1,53 @@
+state,percOwn,percSmoke,stateName
+AL,67.7,21.1,Alabama
+AK,62.5,19.9,Alaska
+AZ,61.1,16.5,Arizona
+AR,65.8,24.7,Arkansas
+CA,53.7,12.9,California
+CO,63.9,15.7,Colorado
+CT,66.4,15.4,Connecticut
+DE,70.3,19.9,Delaware
+DC,40.6,16.4,District of Columbia
+FL,64.1,17.7,Florida
+GA,62.2,17.4,Georgia
+HI,56.7,14.1,Hawaii
+ID,68,15.9,Idaho
+IL,65.5,16.5,Illinois
+IN,68.6,22.9,Indiana
+IA,70.9,18.5,Iowa
+KS,66.6,18.1,Kansas
+KY,66.1,26.2,Kentucky
+LA,64.4,24,Louisiana
+ME,71.3,19.3,Maine
+MD,65.9,14.6,Maryland
+MA,61.6,14.7,Massachusetts
+MI,70.2,21.2,Michigan
+MN,71.7,16.3,Minnesota
+MS,67.7,23,Mississippi
+MO,66.9,20.6,Missouri
+MT,66.4,19.9,Montana
+NE,65.9,17.3,Nebraska
+NV,53.6,17,Nevada
+NH,70.2,17.5,New Hampshire
+NJ,63.3,15.1,New Jersey
+NM,66.9,19.2,New Mexico
+NY,53,14.4,New York
+NC,64.2,19.1,North Carolina
+ND,63.8,19.9,North Dakota
+OH,65.3,21,Ohio
+OK,65.1,21.1,Oklahoma
+OR,60.7,17,Oregon
+PA,68.8,19.9,Pennsylvania
+RI,58.8,16.3,Rhode Island
+SC,68,21.5,South Carolina
+SD,68.2,18.6,South Dakota
+TN,66.1,24.2,Tennessee
+TX,61.2,14.5,Texas
+UT,69.2,9.7,Utah
+VT,70,16.4,Vermont
+VA,65.3,19.5,Virginia
+WA,61.7,15.3,Washington
+WV,72.2,26.7,West Virginia
+WI,66.6,17.4,Wisconsin
+WY,66.9,19.5,Wyoming
+PR,67.9,11.3,Puerto Rico
